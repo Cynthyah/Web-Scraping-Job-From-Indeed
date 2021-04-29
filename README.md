@@ -14,5 +14,5 @@ from bs4 import BeautifulSoup\
 from textblob import TextBlob\
 from nltk.corpus import stopwords\
 from operator import itemgetter\
-from datetime import datetime\
+from datetime import datetime
 
